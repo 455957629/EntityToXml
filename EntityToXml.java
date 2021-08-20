@@ -18,6 +18,10 @@ import java.io.File;
 import java.lang.reflect.*;
 import java.util.*;
 
+/**
+*
+* @auther li m c
+**/
 public class EntityToXml {
 
     static Logger logger = LoggerFactory.getLogger(EntityToXml.class);
